@@ -1,7 +1,9 @@
 
 # URL Shortener Front-End
 
-
+<a href="https://www.linkedin.com/in/natalia-feitosa-cga-cfp" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ## Overview
 This is the front-end application for the URL Shortener Service, which allows you to shorten long URLs to make them more compact and easier to share. This front-end project is implemented using React and JavaScript.
@@ -61,6 +63,3 @@ The build files will be generated in the `build` folder.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-<a href="https://www.linkedin.com/in/natalia-feitosa-cga-cfp" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
